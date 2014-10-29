@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "commander": "*"
+    "commander": "*",
+    "mongoose": "*",
+    "node-xlsx": "^0.5.1"
   },
   "description": "this is tools for xgame-node project",
   "main": "lib/xgame-node-tools.js",
