@@ -1,0 +1,23 @@
+{
+  "name": "xgame-node-tools",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "commander": "*"
+  },
+  "description": "this is tools for xgame-node project",
+  "main": "lib/xgame-node-tools.js",
+  "bin": {
+    "xgame-tools": "lib/cli-wrapper.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xgame-node",
+    "tools"
+  ],
+  "author": "Johnny Lee",
+  "license": "MIT"
+}
