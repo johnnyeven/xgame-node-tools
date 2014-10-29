@@ -10,7 +10,7 @@
   "description": "this is tools for xgame-node project",
   "main": "lib/xgame-node-tools.js",
   "bin": {
-    "xgame-tools": "lib/cli-wrapper.js"
+    "xgame-tools": "bin/xgame-tools"
   },
   "devDependencies": {},
   "scripts": {
