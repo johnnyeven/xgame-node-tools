@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "commander": "*",
+    "eventproxy": "^0.3.1",
     "mongoose": "*",
     "node-xlsx": "^0.5.1"
   },
